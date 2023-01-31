@@ -7,7 +7,7 @@ export const Todo = (props) => {
     return (
               <div>
              <p>{title}</p>
-            <p>{description}s</p>
+            <p>{description}sasd</p>
          </div>
     )
 
